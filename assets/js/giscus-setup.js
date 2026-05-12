@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "Xinran-Hu-PU/Xinran-Hu-PU.github.io",
+    "data-repo": "XinranHu26/Xinran-Hu-PU.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
